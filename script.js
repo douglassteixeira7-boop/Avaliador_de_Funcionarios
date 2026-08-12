@@ -16,7 +16,7 @@ function avaliarFuncionario(){
     }
 
 
-    if (salario > 2500){
+    if (salario > 2.500){
         bonus = 300;
     }else{
         bonus = 0;
